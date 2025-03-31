@@ -1,7 +1,7 @@
 # Sistema Linear Gauss
 Um solucionador de sistemas lineares implantado no Docker.
 
-## O que é esse Container?
+## O que tem no Container?
 
 Esse container contém o Python e a biblioteca numpy.
 
