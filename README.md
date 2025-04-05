@@ -1,17 +1,13 @@
-# Sistema Linear Gauss
-Um solucionador de sistemas lineares implantado no Docker.
+# Gauss Linear System
+A linear system solver based on Gauss method deployed on docker.
 
-## O que tem no Container?
+## What is in the container?
 
-Esse container contém o Python e a biblioteca numpy.
+The container image has python3 and numpy installed.
 
-Ele resolve Sistemas Lineares pelo metodo de Gauss
+## How to use it?
 
-## Como usar?
-
-Alem do código-fonte, existe uma imagem no docker pronta para baixar
-
-é só executar os seguintes comandos no terminal
+Execute the adress to the docker image in the terminal. It needs to run in on interactive mode.
 
 `docker pull tiagosiqueira22/sistema-linear-gauss:latest`
 
